@@ -1,0 +1,17 @@
+
+
+Disclaimer: This client is for 64x bit users only of Windows (7/10/11 64x bits) and OSX (Most recent) 
+
+
+Another Disclaimer: If you have mods installed already on the mods folder delete those or put them somewhere else or the client will fail the load process
+
+
+To install the client go to the Minecraft folder depending on the OS your using, Copy all the things in this folder and paste them in the Minecraft folder, if it tells you to choose to overwrite or keep both select keep both, here is the location of Minecraft for Windows and OSX
+
+
+
+Windows (7/10/11 64x bit)    %APPDATA%\.minecraft
+
+
+
+OSX (64x bit most recent)    ~/Library/Application Support/minecraft

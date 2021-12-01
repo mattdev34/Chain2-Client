@@ -1,0 +1,7 @@
+
+
+/simpleconfig to adjust config values.
+
+/simplehud to arrange them on the screen (just drag them around).
+
+/autogg to toggle auto GG
