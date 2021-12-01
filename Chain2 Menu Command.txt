@@ -1,7 +1,7 @@
 
 
-/simpleconfig to adjust config values.
+/simpleconfig to setup chroma hud
 
-/simplehud to arrange them on the screen (just drag them around).
+/chromahud to arrange them on the screen (just drag them around).
 
 /autogg to toggle auto GG
