@@ -3,4 +3,4 @@ This is a public client that was first going to be for my use only put I decided
 I personally am proud of what I made and will keep adding mods to it
 To download it below Releases it has tags, click that then click the version you want then click on assets and choose the Chain2-Client zip
 
-HySkyblock Client download: https://github.com/mattdev34/HySkyblock-Client/tree/main
+HySkyblock Client download: https://github.com/mattdev34/HySkyblock-Client/releases
